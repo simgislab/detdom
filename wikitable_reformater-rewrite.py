@@ -3,9 +3,10 @@
 # Проект: http://gis-lab.info/qa/geodetdom.html
 # Обсуждение: http://gis-lab.info/forum/viewtopic.php?f=55&t=12594
 
+#BUG: если в вики таблице есть текст с гиперссылками - результат обрежется, не включив всё начиная с гиперссылки
+
 import urllib2 as url
 from bs4 import BeautifulSoup
-import csv
 from regions import regions
 import codecs
 from operator import itemgetter
