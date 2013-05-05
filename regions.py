@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-# Зачем: Reusable список регионов и кодов для построения таблиц
+# Зачем: reusable список регионов и кодов для построения таблиц
 # Проект: http://gis-lab.info/qa/geodetdom.html
 # Обсуждение: http://gis-lab.info/forum/viewtopic.php?f=55&t=12594
 

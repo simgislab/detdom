@@ -1,5 +1,5 @@
 #-*- encoding: utf-8 -*-
-# Зачем: Конвертортатор и упаковатор, на входе CSV, на выходе CSVT, VRT, SHP, OSM XML
+# Зачем: конвертортатор и упаковатор, на входе CSV, на выходе CSVT, VRT, SHP, OSM XML
 # Проект: http://gis-lab.info/qa/geodetdom.html
 # Обсуждение: http://gis-lab.info/forum/viewtopic.php?f=55&t=12594
 
